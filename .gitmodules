@@ -1,0 +1,3 @@
+[submodule "programmation-jeux"]
+	path = programmation-jeux
+	url = git@github.com:nahuelfouilleul/programmation-jeux.git
